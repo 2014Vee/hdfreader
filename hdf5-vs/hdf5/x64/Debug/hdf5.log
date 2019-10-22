@@ -1,0 +1,7 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  Hdf5Reader.cpp
+g:\hdf5\1.10.4\include\h5exception.h(91): warning C4251: “H5::Exception::detail_message”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“H5::Exception”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+g:\hdf5\1.10.4\include\h5exception.h(92): warning C4251: “H5::Exception::func_name”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“H5::Exception”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+  hdf5.vcxproj -> C:\Users\2014Vee\source\repos\hdf5\x64\Debug\hdf5.exe
